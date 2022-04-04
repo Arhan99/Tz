@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "user1",
+      "password": "123456",
+      "contacts": [
+        {
+          "id": 4,
+          "name": "Roma",
+          "lastname": "pppppppp",
+          "age": "99",
+          "number": "+790000000000",
+          "photo": "https://kartinkived.ru/wp-content/uploads/2021/10/zajchik-i-strekoza.jpg"
+        },
+        {
+          "id": 6,
+          "name": "lplp,",
+          "lastname": "Dmitriev",
+          "age": 22,
+          "number": "+790000000000",
+          "photo": "https://kartinkived.ru/wp-content/uploads/2021/10/zajchik-i-strekoza.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "login": "user2",
+      "password": "123456",
+      "contacts": [
+        {
+          "id": 4,
+          "name": "Roma",
+          "lastname": "pppppppp",
+          "age": "99",
+          "number": "+790000000000",
+          "photo": "https://kartinkived.ru/wp-content/uploads/2021/10/zajchik-i-strekoza.jpg"
+        },
+        {
+          "id": 6,
+          "name": "lplp,",
+          "lastname": "Dmitriev",
+          "age": 22,
+          "number": "+790000000000",
+          "photo": "https://kartinkived.ru/wp-content/uploads/2021/10/zajchik-i-strekoza.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "login": "user3",
+      "password": "123456",
+      "contacts": [
+        {
+          "id": 27,
+          "name": "Kirill",
+          "lastname": "jgji",
+          "age": "19",
+          "number": "0200",
+          "photo": "https://kartinkived.ru/wp-content/uploads/2021/10/zajchik-i-strekoza.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #b2aeb2;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 500px;
+}
+#block-body {
+    width: 1035px;
+    margin: 5px auto;
+    height: auto;
+}
+header {
+    width: 1035px;
+    height: 80px;
+    background-color: black;
+    position: fixed;
+}
+#block-content {
+    width: 1035px;
+    height: auto;
+    min-height: 500px;
+}
+.logo {
+    width: 200px;
+    float: left;
+    height: 80px;
+}
+.logo a {
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: "Exo2-Bold", sans-serif;
+    font-size: 28px;
+    color:  #b2aeb2;
+    text-decoration: none;
+    cursor: pointer;
+}
+.use {
+    color: #aa064b;
+
+}
+.web {
+    color: #429595;
+}
+
+
+
+.topMenu {
+    width: auto;
+    height: 80px;
+    float:top;
+}
+.topMenu ul li {
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+.topMenu ul li a {
+    display: block;
+    width: 171px;
+    text-decoration: none;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 17px;
+    color: white;
+    height: 55px;
+    padding-top: 25px;
+    cursor: pointer;
+}
+.topMenu ul li a:hover {
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition:all 0.5s ease;
+    -moz-transition:all 0.5s ease;
+    background: cadetblue;
+}
+.button{
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+}
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-top: 15px;
+}
