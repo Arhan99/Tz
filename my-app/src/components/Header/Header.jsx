@@ -4,7 +4,6 @@ import {NavLink} from "react-router-dom";
 import { useState } from "react";
 import AddModal from "../../Modal/AddModal";
 import { useEffect } from "react";
-// Ща погоди 20 мин, отошёл ок()
 function Header ({user, isAuth, isChanged, logout, addContact, updateContactsThunk, setFlagData, contacts}) {
 
     // useEffect(()=>{
